@@ -1,0 +1,22 @@
+PODS:
+  - des (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - des (from `.symlinks/plugins/des/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  des:
+    :path: ".symlinks/plugins/des/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  des: d5ea4d8b62b30b6c2402c396e0ec79221caf5af2
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.1

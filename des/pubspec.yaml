@@ -1,8 +1,8 @@
 name: des
-description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+description: des for Android and iOS
+version: 0.0.2
+author: elex <sfy921011@gmail.com>
+homepage: https://github.com/Elex92/flutter_des.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

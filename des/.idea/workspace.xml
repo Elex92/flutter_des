@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3854c09d-f61d-41eb-8596-893dd87d91ce" name="Default Changelist" comment="" />
+    <list default="true" id="3854c09d-f61d-41eb-8596-893dd87d91ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FYDesHandle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FYDesHandle.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/DesPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/DesPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="10.0" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1g2I2tcfqcyT6OO57YXzJaAa8bS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,21 +49,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1269" height="199" key="GridCell.Tab.0.bottom" timestamp="1597307358113">
+    <state width="1269" height="372" key="GridCell.Tab.0.bottom" timestamp="1597380313108">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1269" height="199" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597307358113" />
-    <state width="1269" height="199" key="GridCell.Tab.0.center" timestamp="1597307358112">
+    <state width="1269" height="372" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597380313108" />
+    <state width="1269" height="372" key="GridCell.Tab.0.center" timestamp="1597380313107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1269" height="199" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597307358112" />
-    <state width="1269" height="199" key="GridCell.Tab.0.left" timestamp="1597307358112">
+    <state width="1269" height="372" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597380313107" />
+    <state width="1269" height="372" key="GridCell.Tab.0.left" timestamp="1597380313107">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1269" height="199" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597307358112" />
-    <state width="1269" height="199" key="GridCell.Tab.0.right" timestamp="1597307358113">
+    <state width="1269" height="372" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597380313107" />
+    <state width="1269" height="372" key="GridCell.Tab.0.right" timestamp="1597380313108">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1269" height="199" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597307358113" />
+    <state width="1269" height="372" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597380313108" />
   </component>
 </project>
